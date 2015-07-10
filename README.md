@@ -1,2 +1,2 @@
-# ionicer.github.io
+# infodiver.github.io
 blog
