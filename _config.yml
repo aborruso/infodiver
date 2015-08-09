@@ -11,3 +11,17 @@ github_username:  infodiver
 # Build settings
 markdown: kramdown
 permalink: "/:title"
+
+collections:
+  insights:
+    title: Озарения
+    description: Озарения в виде историй и размышлений
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: insights
+    values:
+      layout: page
+      permalink: /:path/
