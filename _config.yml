@@ -17,6 +17,7 @@ collections:
     title: Озарения
     description: Озарения в виде историй и размышлений
     output: true
+    permalink: /insights/:path/
 
 defaults:
   - scope:
@@ -24,4 +25,4 @@ defaults:
       type: insights
     values:
       layout: page
-      permalink: /:path/
+
