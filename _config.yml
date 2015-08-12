@@ -19,10 +19,15 @@ collections:
     output: true
     permalink: /insights/:path/
 
+  fineart:
+    title: fineArt
+    description: pictures in watercolor, gouache and digital mixed with analog
+    output: true
+    permalink: /fineart/:path/
+
 defaults:
   - scope:
       path: ""
       type: insights
     values:
       layout: page
-
