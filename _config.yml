@@ -2,7 +2,7 @@
 title: Infodiver
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-   Writes about Art, Travelling and Russia. In real life Infodiver is a web and digital enthusiast passionate about art of technology, computer sciense, robots, transport. He loves world nature, our Planet with lands wide and Russia above all in case of Russia his native land.
+   Here you may find some Art and read about it.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://infodiver.ru" # the base hostname & protocol for your site
 twitter_username: infodiverblog
