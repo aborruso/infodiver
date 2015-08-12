@@ -1,13 +1,14 @@
 ---
-layout: page
-title: Список озарений
+layout: default
+title: Озарения
 permalink: /insights/
 ---
 
-{% for insight in site.insights limit:3 %}
-      <li>
+{% for insight in site.insights %}
+  <li>
 
-        <a href="{{ insight.url }}">{{ insight.title }}</a>
-        <p>{{ insight.short-description }}</p>
-      </li>
+    <a href="{{ insight.url }}">{{ insight.title }}</a>
+      <p>{{ insight.short-description }}</p> 
+  </li>
 {% endfor %}
+
