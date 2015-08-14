@@ -1,24 +1,19 @@
 # Site settings
 title: Infodiver
-#email: your-email@domain.com
+#email: hi@infodiver.ru
 description: > # this means to ignore newlines until "baseurl:"
-   You may find some Art and occasionally read about it here. BTW texts mostly in Russian. So if you curious about content meaning and ever were dreaming about learning Russian, chances the best moment to start learning this beautifull language right now :)
+   Some fineArt brought by travelling free artist and occasionally blog writings about travelling in Russia besides other stuff. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://infodiver.ru" # the base hostname & protocol for your site
 twitter_username: infodiverblog
 github_username:  infodiver
+author: Alexander Fields
 
 # Build settings
 markdown: kramdown
 permalink: "/:title"
 
 collections:
-  insights:
-    title: Озарения
-    description: Озарения в виде историй и размышлений
-    output: true
-    permalink: /insights/:path/
-
   fineart:
     title: fineArt
     description: pictures in watercolor, gouache and digital mixed with analog
