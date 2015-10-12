@@ -2,7 +2,7 @@
 title: Инфодайвер
 #email: hi@infodiver.ru
 description: > # this means to ignore newlines until "baseurl:"
-   Один берёт часы, остальные хотят калькулятор
+   Один берёт часы, остальные хотят калькулятор, а китаец нарезает ЖК матрицу
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://infodiver.ru" # the base hostname & protocol for your site
 twitter_username: infodiver_ru
