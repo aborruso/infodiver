@@ -1,13 +1,13 @@
 # Site settings
-title: Инфодайвер
+title: Инфодайвер.ру
 #email: hi@infodiver.ru
 description: > # this means to ignore newlines until "baseurl:"
-   Один берёт часы, остальные хотят калькулятор
+   Один берёт часы — остальные хотят калькулятор. А китаец нарезает LCD прямоугольниками
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://infodiver.ru" # the base hostname & protocol for your site
 twitter_username: infodiver_ru
-github_username: infodiver
-author: Александр Филдз
+#github_username: infodiver
+author: infodiver
 
 # Build settings
 markdown: kramdown
