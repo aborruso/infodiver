@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://infodiver.ru" # the base hostname & protocol for your site
 twitter_username: infodiver_ru
 #github_username: infodiver
-author: infodiver
+author: Данила
 
 # Build settings
 markdown: kramdown
