@@ -20,6 +20,12 @@ collections:
     output: true
     permalink: /fineart/:path/
 
+  fineart2:
+    title: fineArt2
+    description: pictures in watercolor, gouache and digital mixed with analog
+    output: true
+    permalink: /fineart2/:path/
+    
 defaults:
   - scope:
       path: ""
